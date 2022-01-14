@@ -2,4 +2,4 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=home-22&layout=compact)
 
- - 🌱 I’m currently learning **Flutter, SwiftUI**
+ 
